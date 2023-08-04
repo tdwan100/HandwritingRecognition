@@ -1,5 +1,7 @@
 # Handwritten Digit Classifier GUI
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This project is a Handwritten Digit Classifier with a graphical user interface (GUI) developed using Python. The GUI allows users to draw a digit on a canvas, and the classifier will predict the drawn digit using a pre-trained Random Forest model.
 
 ## Requirements
@@ -56,10 +58,6 @@ python HandwritingRecognition.py
 ## Contributing
 
 Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License
 
 ## Acknowledgments
 
